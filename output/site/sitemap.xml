@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://musclelove-777.github.io/idle-end/</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-end//articles/game-retirement-loss-coping-strategy.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-end//articles/game-withdrawal-loss-coping.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/idle-end//articles/idle-game-quit-time-management.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-end//category/%E5%96%AA%E5%A4%B1%E6%84%9F%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E5%AF%BE%E7%AD%96.html</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/idle-end//category/%E3%82%B2%E3%83%BC%E3%83%A0%E6%99%82%E9%96%93%E3%81%AE%E4%BB%A3%E6%9B%BF%E6%B4%BB%E5%8B%95.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
